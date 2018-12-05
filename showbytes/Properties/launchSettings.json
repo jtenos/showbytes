@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "showbytes": {
+      "commandName": "Project",
+      "commandLineArgs": "--num-bytes 50 --bytes-per-line 12 c:\\temp\\123.jpg"
+    }
+  }
+}
